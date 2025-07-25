@@ -18,6 +18,9 @@ You can think of it as your own tiny GPT that just wants to name people!
 3. It trains a simple neural net to minimize **negative log-likelihood loss (NLL)**.
 4. After training, it samples new names character by character.
 
+
+<img width="628" height="627" alt="image" src="https://github.com/user-attachments/assets/9e5608ac-966c-4fcf-81e1-1d72e5c960b2" />
+
 ---
 
 ## ✨ Example Outputs
